@@ -6,15 +6,16 @@ namespace TextWizard
 {
     class MathClass
     {
-        private void MathMethod(int value1, decimal value2)
+        private void MathMethod(int value1)
         {
-            Math.Round(10.666667866, value1);
+            Math.Round(10.66667866,2); 
             Math.Sqrt(50.90);
             Math.Abs(-857);
             Math.Ceiling(865.98);
             Math.Cos(270);
             Math.Cosh(234.324);
-            Math.Max(20, 100);
+            Math.Max(20, 100); // Max value = 100
+            Math.Min(14, Math.Acos(0.2343232));
             Math.Sin(180);
             Math.Pow(2, 18);
             double f = Math.PI;
@@ -22,7 +23,6 @@ namespace TextWizard
             Math.DivRem(57777, 78, out result);
             Math.Floor(54.7657);
             Math.Log(100);
-            Math.Min(value1, Math.Acos(0.2343232));
             Math.Acosh(76.89879);
             Math.Asinh(54.876);
             Math.Atan(876.89);
