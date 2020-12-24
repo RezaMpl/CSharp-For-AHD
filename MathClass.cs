@@ -10,8 +10,8 @@ namespace TextWizard
         {
             Math.Round(10.66667866,2); 
             Math.Sqrt(50.90);
-            Math.Abs(-857);
-            Math.Ceiling(865.98);
+            Math.Abs(-10);
+            Math.Ceiling(10.98);
             Math.Cos(270);
             Math.Cosh(234.324);
             Math.Max(20, 100); // Max value = 100
@@ -23,11 +23,11 @@ namespace TextWizard
             Math.DivRem(57777, 78, out result);
             Math.Floor(54.7657);
             Math.Log(100);
-            Math.Acosh(76.89879);
+            Math.Acosh(6.89879);
             Math.Asinh(54.876);
-            Math.Atan(876.89);
+            Math.Atan(76.89);
             Math.Atan2(34.234, 23.23);
-            Math.Atanh(48.34);
+            Math.Atanh(8.34);
             Math.BigMul(12, 120);
             Math.BitDecrement(12.12);
             Math.BitIncrement(12.14);
