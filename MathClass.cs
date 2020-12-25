@@ -8,21 +8,21 @@ namespace TextWizard
     {
         private void MathMethod(int value1)
         {
-            Math.Round(10.66667866,2); 
+            Math.Round(10.66667866,2); // یک عدد را رند میکند //Rand a number
             Math.Sqrt(50.90);
             Math.Abs(-10);
             Math.Ceiling(10.98);
             Math.Cos(270);
             Math.Cosh(234.324);
-            Math.Max(20, 100); // Max value = 100
-            Math.Min(14, Math.Acos(0.2343232));
+            Math.Max(20, 100); // خروجی = 100 // Max value = 100
+            Math.Min(14, Math.Acos(0.2343232)); // میتوان در ورودی یک متد ریاضی یک متد را پاس داد
             Math.Sin(180);
-            Math.Pow(2, 18);
-            double f = Math.PI;
+            Math.Pow(2, 18); // یک عدد را به توان میرساند(2 به توان 18)در ورودی وارد شده
+            double f = Math.PI; // عدد پی دا در خود ذخیره دارد
             int result = 0;
             Math.DivRem(57777, 78, out result);
             Math.Floor(54.7657);
-            Math.Log(100);
+            Math.Log(100);// لگاریتم
             Math.Acosh(6.89879);
             Math.Asinh(54.876);
             Math.Atan(76.89);
