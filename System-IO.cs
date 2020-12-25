@@ -10,8 +10,8 @@ namespace TextWizard
     {
     private void IOMethod(int value1)
         {
+            Directory.CreateDirectory("New Folder"); // ساخت یک پوشه در مسیر اجرایی برنامه
         /*
-            Directory.CreateDirectory
             Directory.Delete
             Directory.Delete
             Directory.EnumerateDirectories
