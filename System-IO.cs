@@ -10,9 +10,15 @@ namespace TextWizard
     {
     private void IOMethod(int value1)
         {
+            FileInfo file = new FileInfo("File Name");
+        
             Directory.CreateDirectory("New Folder"); // ساخت یک پوشه در مسیر اجرایی برنامه
             Directory.Exists("MyPath");//ادرس را وارد میکنیم و به ما میگوید که وجود دارد یا نه
+        
+            file.Length;
 
+
+            
         
         
         /*
@@ -31,7 +37,6 @@ namespace TextWizard
             Directory.EnumerateFileSystemEntries
             Directory.EnumerateFileSystemEntries
             Directory.Equals
-            Directory.Exists
             Directory.GetCreationTime
             Directory.GetCreationTimeUtc
             Directory.GetCurrentDirectory
