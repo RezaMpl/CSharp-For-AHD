@@ -11,6 +11,10 @@ namespace TextWizard
     private void IOMethod(int value1)
         {
             Directory.CreateDirectory("New Folder"); // ساخت یک پوشه در مسیر اجرایی برنامه
+            Directory.Exists("MyPath");//ادرس را وارد میکنیم و به ما میگوید که وجود دارد یا نه
+
+        
+        
         /*
             Directory.Delete
             Directory.Delete
