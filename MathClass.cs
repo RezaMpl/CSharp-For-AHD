@@ -53,4 +53,11 @@ namespace TextWizard
             double e = Math.E;
             double sum = e + f;
             // Methods of Math class...^
+
+            
+            
+             Math.Max(Math.Sin(180), Math.Cos(270));
+            
+            
         }}}
+    
