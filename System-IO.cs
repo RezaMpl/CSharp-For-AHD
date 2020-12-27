@@ -14,7 +14,13 @@ namespace TextWizard
         
             Directory.CreateDirectory("New Folder"); // ساخت یک پوشه در مسیر اجرایی برنامه
             Directory.Exists("MyPath");//ادرس را وارد میکنیم و به ما میگوید که وجود دارد یا نه
-        
+            
+            // همه دایرکتوری ها و زیرشاخه ها را در مسیر مشخص ایجاد می کند مگر اینکه قبلاً وجود داشته باشد.
+            // مسیر  برای ایجاد
+            Directory.CreateDirectory("");
+            
+            // یک پرونده یا فهرست و محتویات آن را به مکان جدید منتقل می کند.
+            Directory.Move("", "");
             file.Length;
 
 
