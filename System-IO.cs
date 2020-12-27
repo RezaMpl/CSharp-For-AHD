@@ -20,7 +20,8 @@ namespace TextWizard
             Directory.CreateDirectory("");
             
             // یک پرونده یا فهرست و محتویات آن را به مکان جدید منتقل می کند.
-            Directory.Move("", "");
+            Directory.Move(@"c:\new folder\1.jpg", @"c:\1.jpg");
+        
             file.Length;
 
 
