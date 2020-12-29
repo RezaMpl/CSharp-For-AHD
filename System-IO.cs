@@ -10,19 +10,7 @@ namespace TextWizard
     {
     private void IOMethod(int value1)
         {
-            FileInfo file = new FileInfo("File Name");
-        
-            Directory.CreateDirectory("New Folder"); // ساخت یک پوشه در مسیر اجرایی برنامه
-            Directory.Exists("MyPath");//ادرس را وارد میکنیم و به ما میگوید که وجود دارد یا نه
-            
-            // همه دایرکتوری ها و زیرشاخه ها را در مسیر مشخص ایجاد می کند مگر اینکه قبلاً وجود داشته باشد.
-            // مسیر  برای ایجاد
-            Directory.CreateDirectory("");
-            
-            // یک پرونده یا فهرست و محتویات آن را به مکان جدید منتقل می کند.
-            Directory.Move(@"c:\new folder\1.jpg", @"c:\1.jpg");
-        
-            file.Length;
+            string currentDir = Directory.GetCurrentDirectory() + @"\1\2\3\4\5\6\7\8\9";
 
 
             
