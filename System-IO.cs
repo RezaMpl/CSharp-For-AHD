@@ -14,6 +14,7 @@ namespace TextWizard
 
             Directory.CreateDirectory(currentDir); // ساخت یک پوشه در مسیر اجرایی برنامه
 
+            Directory.Exists(currentDir);//ادرس را وارد میکنیم و به ما میگوید که وجود دارد یا نه
 
             
         
