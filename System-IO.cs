@@ -12,6 +12,8 @@ namespace TextWizard
         {
             string currentDir = Directory.GetCurrentDirectory() + @"\1\2\3\4\5\6\7\8\9";
 
+            Directory.CreateDirectory(currentDir); // ساخت یک پوشه در مسیر اجرایی برنامه
+
 
             
         
