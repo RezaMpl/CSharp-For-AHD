@@ -16,7 +16,8 @@ namespace TextWizard
 
             Directory.Exists(currentDir);//ادرس را وارد میکنیم و به ما میگوید که وجود دارد یا نه
 
-            
+            Directory.Move(@"c:\new folder\1.jpg", @"c:\1.jpg");  // یک پرونده یا فهرست و محتویات آن را به مکان جدید منتقل می کند.
+
         
         
         /*
