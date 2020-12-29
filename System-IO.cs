@@ -18,7 +18,8 @@ namespace TextWizard
 
             Directory.Move(@"c:\new folder\1.jpg", @"c:\1.jpg");  // یک پرونده یا فهرست و محتویات آن را به مکان جدید منتقل می کند.
 
-        
+            Directory.Delete(currentDir);  // یک فهرست خالی را از یک مسیر مشخص حذف می کند.
+
         
         /*
             Directory.Delete
