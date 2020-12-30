@@ -20,6 +20,8 @@ namespace TextWizard
 
             Directory.Delete(currentDir);  // یک فهرست خالی را از یک مسیر مشخص حذف می کند.
 
+            Directory.Delete(currentDir, false);  // یک فهرست خالی را از یک مسیر مشخص حذف می کند. //
+
         
         /*
             Directory.Delete
