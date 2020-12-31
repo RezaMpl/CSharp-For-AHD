@@ -1,1 +1,1 @@
-        public void D(int max, int f, int a)
+        public void Percent(int max, int f, int a)
