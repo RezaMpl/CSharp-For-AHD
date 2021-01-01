@@ -4,3 +4,4 @@
             double b = a;
             int c = 0;
             if (c == a)
+                c = a;
