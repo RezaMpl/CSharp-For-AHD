@@ -9,3 +9,4 @@
             {
                 m = File.ReadAllText("Config.cfg");
                 c = int.Parse(m);
+            }
