@@ -13,3 +13,4 @@
             if (a == c)
             {
                 b = (b / max) * (100);
+                Console.WriteLine(Math.Floor(b) + "%");
