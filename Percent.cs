@@ -14,4 +14,4 @@
             {
                 b = (b / max) * (100);
                 Console.WriteLine(Math.Floor(b) + "%");
-                // no comment
+                c = c + f;
