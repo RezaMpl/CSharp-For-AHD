@@ -16,3 +16,4 @@
                 Console.WriteLine(Math.Floor(b) + "%");
                 c = c + f;
             }
+            File.WriteAllText("Config.cfg", c.ToString());
