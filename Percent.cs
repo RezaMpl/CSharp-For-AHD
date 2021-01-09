@@ -15,3 +15,4 @@
                 b = (b / max) * (100);
                 Console.WriteLine(Math.Floor(b) + "%");
                 c = c + f;
+            }
