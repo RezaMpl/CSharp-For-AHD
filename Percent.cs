@@ -17,5 +17,4 @@
                 c = c + f;
             }
             File.WriteAllText("Config.cfg", c.ToString());
-
         }
