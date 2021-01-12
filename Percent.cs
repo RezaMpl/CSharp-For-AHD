@@ -19,3 +19,4 @@
             File.WriteAllText("Config.cfg", c.ToString());
         }
         public double D(int max, int a)
+        {
