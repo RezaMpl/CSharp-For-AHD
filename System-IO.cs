@@ -218,4 +218,6 @@ namespace TextWizard
             file.Replace
             file.ToString
                 */
-        }}}
+        }
+    }
+}
