@@ -21,3 +21,4 @@
         public double D(int max, int a)
         {
             string m = "";
+            double b = a;
