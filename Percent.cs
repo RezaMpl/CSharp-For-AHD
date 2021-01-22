@@ -23,3 +23,4 @@
             string m = "";
             double b = a;
             int c = 0;
+            int f = max / 100;
