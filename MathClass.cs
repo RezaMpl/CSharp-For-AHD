@@ -33,7 +33,7 @@ namespace TextWizard
             Math.BitIncrement(12.14);
             Math.Cbrt(23.123);
             Math.Clamp(12, 4334, 3444);
-            Math.CopySign(23.432, 11.99);
+            Math.CopySign(23.432, 11.98);
             Math.Equals(12, 12);
             Math.Exp(55.99);
             Math.FusedMultiplyAdd(24.1, 25.7, 26.8);
