@@ -8,7 +8,7 @@ namespace TextWizard
     {
         private void MathMethod(int value1)
         {
-            Math.Round(10.66667866,2); // یک عدد را رند میکند //Rand a number
+            Math.Round(10.897890,2); // یک عدد را رند میکند //Rand a number
             Math.Sqrt(50.90);
             Math.Abs(-10);
             Math.Ceiling(10.98);
