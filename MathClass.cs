@@ -30,7 +30,7 @@ namespace TextWizard
             Math.Atanh(8.34);
             Math.BigMul(12, 120);
             Math.BitDecrement(12.12);
-            Math.BitIncrement(12.14);
+            Math.BitIncrement(12.12);
             Math.Cbrt(23.123);
             Math.Clamp(12, 4334, 3444);
             Math.CopySign(23.432, 11.98);
