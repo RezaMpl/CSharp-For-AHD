@@ -49,7 +49,7 @@ namespace TextWizard
             Math.Sign(88);
             Math.Sinh(88.8);
             Math.Tanh(88.8);
-            Math.Truncate(44.4);
+            Math.Truncate(22.2);
             double e = Math.E;
             double sum = e + f;
             // Methods of Math class...^
