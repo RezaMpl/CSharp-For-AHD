@@ -38,7 +38,7 @@ namespace TextWizard
             Math.Exp(55.99);
             Math.FusedMultiplyAdd(24.1, 25.7, 26.8);
             Math.IEEERemainder(88.8, 44.4);
-            Math.ILogB(4.666666);
+            Math.ILogB(4.66666);
             Math.Log(5.0001);
             Math.Log10(5.0001);
             Math.Log2(5.0001);
