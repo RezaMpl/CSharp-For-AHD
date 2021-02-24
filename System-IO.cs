@@ -62,6 +62,7 @@ namespace TextWizard
             Directory.GetLogicalDrives
             Directory.GetParent
             Directory.Move
+
             Directory.ReferenceEquals
             Directory.SetCreationTime
             Directory.SetCreationTimeUtc
@@ -93,10 +94,12 @@ namespace TextWizard
             info.GetDirectories
             info.GetDirectories
             info.GetDirectories
+
             info.GetFiles
             info.GetFiles
             info.GetFiles
             info.GetFiles
+
             info.GetFileSystemInfos
             info.GetFileSystemInfos
             info.GetFileSystemInfos
