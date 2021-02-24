@@ -82,14 +82,17 @@ namespace TextWizard
             info.EnumerateDirectories
             info.EnumerateDirectories
             info.EnumerateDirectories
+
             info.EnumerateFiles
             info.EnumerateFiles
             info.EnumerateFiles
             info.EnumerateFiles
+
             info.EnumerateFileSystemInfos
             info.EnumerateFileSystemInfos
             info.EnumerateFileSystemInfos
             info.EnumerateFileSystemInfos
+
             info.GetDirectories
             info.GetDirectories
             info.GetDirectories
