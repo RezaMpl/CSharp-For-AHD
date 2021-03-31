@@ -7,4 +7,3 @@
                 c = a;
             if (c != a)
             {
-                m = File.ReadAllText("Config.cfg");
