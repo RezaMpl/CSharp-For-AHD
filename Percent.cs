@@ -3,7 +3,4 @@
             string m = "";
             double b = a;
             int c = 0;
-            if (c == a)
-                c = a;
-            if (c != a)
-            {
+         
